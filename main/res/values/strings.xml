@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TuDus</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string-array name="priority_arrays">
+        <item>HIGH</item>
+        <item>MEDIUM</item>
+        <item>LOW</item>
+    </string-array>
+
+    <string-array name="status_arrays">
+        <item>Complete</item>
+        <item>Ongoing</item>
+    </string-array>
+</resources>
